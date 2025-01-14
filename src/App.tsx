@@ -2,7 +2,7 @@ import {
   decrement,
   increment,
   IncrementByValue,
-} from "./redux/features/CounterSlice";
+} from "./redux/features/counterSlice";
 import { useAppDispatch, useAppSelector } from "./redux/hook";
 
 function App() {
